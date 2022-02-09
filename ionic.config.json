@@ -1,0 +1,7 @@
+{
+  "name": "ScanQR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
